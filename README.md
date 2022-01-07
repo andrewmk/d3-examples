@@ -1,1 +1,1 @@
-Some exampkes of D3.js
+Some examples of D3.js
